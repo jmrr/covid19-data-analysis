@@ -1,0 +1,3 @@
+[submodule "covid-dashboard"]
+	path = covid-dashboard
+	url = git@github.com:covid19-dash/covid-dashboard.git
